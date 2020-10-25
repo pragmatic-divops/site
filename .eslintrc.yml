@@ -1,0 +1,8 @@
+root: true
+extends:
+  - '@pragmatic-divops'
+  - '@pragmatic-divops/react'
+
+overrides:
+  - files: test/smoke/**/*-spec.js
+    extends: '@pragmatic-divops/cypress'

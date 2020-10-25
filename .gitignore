@@ -1,0 +1,11 @@
+/node_modules/
+/.netlify/
+/lib/
+/cypress/fixtures/
+/cypress/videos/
+/cypress/screenshots
+/public/
+/.cache/
+
+.eslintcache
+.env
