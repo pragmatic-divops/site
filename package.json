@@ -10,7 +10,7 @@
   "scripts": {
     "test": "npm-run-all --print-label --parallel lint:* --parallel test:*",
     "predeploy:netlify": "run-s build",
-    "deploy:netlify": "npx --package netlify-cli netlify deploy --dir=./lib/",
+    "deploy:netlify": "npx --package netlify-cli netlify deploy --dir=./public/",
     "lint:lockfile": "lockfile-lint",
     "lint:js": "eslint . --cache",
     "lint:js:fix": "run-s lint:js -- --fix",
