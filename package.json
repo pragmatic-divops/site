@@ -5,7 +5,7 @@
   "private": true,
   "repository": "pragmatic-divops/site",
   "bugs": "https://github.com/pragmatic-divops/site/issues",
-  "homepage": "https://github.com/pragmatic-divops/site#readme",
+  "homepage": "https://pragmatic-divos.dev",
   "author": "Matt Travi <npm@travi.org> (https://matt.travi.org)",
   "scripts": {
     "test": "npm-run-all --print-label --parallel lint:* --parallel test:*",

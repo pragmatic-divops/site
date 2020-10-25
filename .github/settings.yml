@@ -2,5 +2,5 @@ _extends: .github
 repository:
   name: site
   description: the pragmatic-divops website
-  homepage: 'https://github.com/pragmatic-divops/site#readme'
+  homepage: 'https://pragmatic-divops.dev'
   private: false
