@@ -31,7 +31,7 @@
     "disabled:lint:peer": "npm ls >/dev/null"
   },
   "dependencies": {
-    "gatsby": "2.24.85",
+    "gatsby": "4.25.7",
     "react": "16.14.0",
     "react-dom": "16.14.0"
   },
